@@ -1,6 +1,8 @@
 <!--
      This XLST script converts log4j.xml file to logback.xml file
      trying to mimic its behavior as close as possible
+
+     @author Roman Puchkovskiy
  -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     exclude-result-prefixes="log4j xalan"
